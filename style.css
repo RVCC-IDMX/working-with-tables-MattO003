@@ -1,3 +1,18 @@
 body {
-  background-color: aliceblue;
+  color: lightcoral;
+  display: grid;
+  justify-content: center;
+  background-color: rgb(41, 41, 41);
+}
+
+.tg {
+  /*color: white;*/
+  width: 500px;
+  height: auto;
+  color: lightpink;
+}
+
+#top {
+  font-style: italic;
+  color: orangered;
 }
